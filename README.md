@@ -5,7 +5,7 @@ integrating Obsidian vaults with large language models (LLMs).  It
 combines research and entrepreneurial workflows (SPARK and LEAP), a
 TypeScript plugin for Obsidian, a vector search backend, and a
 monitoring dashboard.  The system is designed to run on macOS with
-optional Dropbox synchronisation and automation.
+optional Dropbox synchronization and automation.
 
 ## Features
 
